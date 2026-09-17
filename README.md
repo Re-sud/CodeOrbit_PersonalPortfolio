@@ -2,6 +2,12 @@
 
 A responsive personal portfolio website developed as part of the CodeOrbit Tech Frontend Development Internship.
 
+## Live Demo
+
+View the live portfolio website:
+
+**https://re-sud.github.io/CodeOrbit_PersonalPortfolio/**
+
 ## About the Project
 
 This portfolio website presents my academic background, technical skills, projects, certifications, and contact information in a responsive and user-friendly layout.
